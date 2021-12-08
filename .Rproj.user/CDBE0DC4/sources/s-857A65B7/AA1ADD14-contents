@@ -1,0 +1,6 @@
+install_github("shaoyanpan/BMI500final")
+library(BMI585final)
+
+pred <- c(1,1,1)
+true <- c(1,1,0)
+f1(pred,true)

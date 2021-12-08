@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1638765659403.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BBF48107",
+    "lastKnownWriteTime" : 1638765798,
+    "last_content_update" : 1638765798509,
+    "path" : "C:/PAN/BMI 585 BioInfo/finalproject/BMI585final/R/min_sample_size.R",
+    "project_path" : "R/min_sample_size.R",
+    "properties" : {
+        "cursorPosition" : "13,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
