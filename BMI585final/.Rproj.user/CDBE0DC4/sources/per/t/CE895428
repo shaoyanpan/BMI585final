@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1638933366077.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2063616268",
+    "id" : "CE895428",
+    "lastKnownWriteTime" : 1638936567,
+    "last_content_update" : 1638936567027,
+    "path" : "C:/PAN/BMI 585 BioInfo/finalproject/BMI585final/R/pcLollipop.R",
+    "project_path" : "R/pcLollipop.R",
+    "properties" : {
+        "cursorPosition" : "20,59",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 11,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

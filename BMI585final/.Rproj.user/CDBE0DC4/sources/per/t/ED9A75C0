@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1638767719384.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1169991374",
+    "id" : "ED9A75C0",
+    "lastKnownWriteTime" : 1638767865,
+    "last_content_update" : 1638767865538,
+    "path" : "C:/PAN/BMI 585 BioInfo/finalproject/BMI585final/R/fdrAdjust.R",
+    "project_path" : "R/fdrAdjust.R",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1638765925566.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3518563562",
+    "id" : "2408ECD9",
+    "lastKnownWriteTime" : 1638766782,
+    "last_content_update" : 1638766782648,
+    "path" : "C:/PAN/BMI 585 BioInfo/finalproject/BMI585final/R/chiSquareCounts.R",
+    "project_path" : "R/chiSquareCounts.R",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

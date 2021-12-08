@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1638766821780.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3912833496",
+    "id" : "4E23472E",
+    "lastKnownWriteTime" : 1638767060,
+    "last_content_update" : 1638767060490,
+    "path" : "C:/PAN/BMI 585 BioInfo/finalproject/BMI585final/R/postHocPower.R",
+    "project_path" : "R/postHocPower.R",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
